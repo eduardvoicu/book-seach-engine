@@ -2,17 +2,15 @@
 
 ## Deployed Link
 
+https://dry-hollows-35681.herokuapp.com/
 
 ## GitHub Repository
 
+https://github.com/eduardvoicu/book-seach-engine
 
 ## Directory
-5. [License](#license)
-6. [About](#about)
-
-## Application Preview
-Full Preview
-![Preview GIF](images/)
+1. [License](#license)
+2. [About](#about)
 
 # License
 
